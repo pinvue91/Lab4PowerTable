@@ -1,0 +1,13 @@
+C:\Users\pin\source\repos\Lab6PowersTable\Lab6PowersTable\bin\Debug\netcoreapp3.1\Lab6PowersTable.exe
+C:\Users\pin\source\repos\Lab6PowersTable\Lab6PowersTable\bin\Debug\netcoreapp3.1\Lab6PowersTable.deps.json
+C:\Users\pin\source\repos\Lab6PowersTable\Lab6PowersTable\bin\Debug\netcoreapp3.1\Lab6PowersTable.runtimeconfig.json
+C:\Users\pin\source\repos\Lab6PowersTable\Lab6PowersTable\bin\Debug\netcoreapp3.1\Lab6PowersTable.runtimeconfig.dev.json
+C:\Users\pin\source\repos\Lab6PowersTable\Lab6PowersTable\bin\Debug\netcoreapp3.1\Lab6PowersTable.dll
+C:\Users\pin\source\repos\Lab6PowersTable\Lab6PowersTable\bin\Debug\netcoreapp3.1\Lab6PowersTable.pdb
+C:\Users\pin\source\repos\Lab6PowersTable\Lab6PowersTable\obj\Debug\netcoreapp3.1\Lab6PowersTable.csprojAssemblyReference.cache
+C:\Users\pin\source\repos\Lab6PowersTable\Lab6PowersTable\obj\Debug\netcoreapp3.1\Lab6PowersTable.AssemblyInfoInputs.cache
+C:\Users\pin\source\repos\Lab6PowersTable\Lab6PowersTable\obj\Debug\netcoreapp3.1\Lab6PowersTable.AssemblyInfo.cs
+C:\Users\pin\source\repos\Lab6PowersTable\Lab6PowersTable\obj\Debug\netcoreapp3.1\Lab6PowersTable.csproj.CoreCompileInputs.cache
+C:\Users\pin\source\repos\Lab6PowersTable\Lab6PowersTable\obj\Debug\netcoreapp3.1\Lab6PowersTable.dll
+C:\Users\pin\source\repos\Lab6PowersTable\Lab6PowersTable\obj\Debug\netcoreapp3.1\Lab6PowersTable.pdb
+C:\Users\pin\source\repos\Lab6PowersTable\Lab6PowersTable\obj\Debug\netcoreapp3.1\Lab6PowersTable.genruntimeconfig.cache
